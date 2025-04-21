@@ -1,8 +1,23 @@
+
 body{
-    background-color: aqua;
+    background-color: #e9d39f;
+}
+
+.title-container{
+    background-color: #a76827;
+    color: white;
+    text-align: center;
+}
+
+.title-container title-pag{
+    font-family: 'Times New Roman';
+    font-weight: 800;
+}
+
+.versicule{
+    font-family: sans-serif;
 }
 
 footer{
-    background-color: cadetblue;
-    margin-top: 10px;
+    background-color: #a76827;
 }
